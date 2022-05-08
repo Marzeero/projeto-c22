@@ -1,2 +1,1 @@
-# projeto-c22
-projetinho
+# project-C22-template
